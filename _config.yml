@@ -6,15 +6,12 @@ language: "" # language to set into html tag, default is en
 
 # User settings
 
-author: Wendell Adriel
-author-title: Full Stack Developer
+author: Leonardo Terceiro
+author-title: Project Coordinator
 gravatar: d36a082aacb53b6f76869748fb4b81d4
-email: wendelladriel.ti@gmail.com
-twitter: wendell_adriel
-github: WendellAdriel
-googleplus: +WendellAdriel
-facebook: wendell.adriel.7
-linkedin: wendelladrielti/en
+email: leonardo.terceiro@gmx.ca
+github: leonardoterceiro
+linkedin: leonardoterceiro/en
 bio: "Brazilian developer. Game, music and technology lover.
       I graduated in Systems Analysis and Development. I'm a Zend Certified PHP Engineer and Scrum Fundamentals Certified. I love to study and learn new skills,
       exchange work and study experience with people around me and share my knowledge with the ones that want it. I work with Web Development since 2009 and with
