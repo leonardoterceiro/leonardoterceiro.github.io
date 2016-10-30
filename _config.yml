@@ -8,18 +8,21 @@ language: "" # language to set into html tag, default is en
 
 author: Leonardo Terceiro
 author-title: Project Coordinator
-gravatar: d36a082aacb53b6f76869748fb4b81d4
+gravatar: 
 email: leonardo.terceiro@gmx.ca
 github: leonardoterceiro
 linkedin: leonardoterceiro/en
-bio: "Brazilian developer. Game, music and technology lover.
-      I graduated in Systems Analysis and Development. I'm a Zend Certified PHP Engineer and Scrum Fundamentals Certified. I love to study and learn new skills,
-      exchange work and study experience with people around me and share my knowledge with the ones that want it. I work with Web Development since 2009 and with
-      Mobile Development since 2015 as Freelancer and in some Brazilian companies too.
-      I'm the creator of CodeShare, a free portal with articles, videos, etc, about Software Development. The purpose of this project is to help people who want
-      to learn about Software Development and start their careers in IT area and to help people that already work with Software Development to improve their
-      technical knowledge to get better job opportunities.
-      I like to work with both: Front-End and Back-End development. I work with many languages, frameworks and technologies."
+bio: "I graduated in Information Technology Management. I'm a ITIL Foundation and Professional Scrum Master Certified. 
+      I love to study and learn new skills, exchange work and study experience with people around me and share my knowledge with the ones that want it. 
+      With over 10 years of leading people and being responsible for project and team management, having coached and mentored several direct reports and managing performance, expectations and results in different companies and enviroments.
+	Personally, I have the drive and determination to consistently achieve success as a leader in all of the organizations that I have worked with in the past.
+	I am proud of being able to deliver projects in a timely manner, under budget.
+	Proven ability to build rapport with clients and stakeholders with confidence and respect.
+	Strong analytical and problems solving skills.
+	Well-developed organizational and time management skills, with the ability to balance multiple and competing priorities.
+	Demonstrated ability to pay persistent attention to detail, while maintaining an overall view of the strategic vision.
+	Excellent written and verbal communication skills.
+      Working toward PMP and Prince2 certifications."
 
 # Skills
 #
@@ -35,91 +38,91 @@ bio: "Brazilian developer. Game, music and technology lover.
 # If you don't want one of the sections below, leave the variable without any values
 front-end:
   - name: HTML 5
-    level: 4
-  - name: CSS 3
-    level: 4
-  - name: JavaScript
-    level: 4
-  - name: jQuery
-    level: 4
-  - name: Angular
-    level: 4
-  - name: Vue.js
     level: 2
+  - name: CSS 3
+    level: 2
+  - name: JavaScript
+    level: 2
+  - name: jQuery
+    level: 
+  - name: Angular
+    level: 1
+  - name: Vue.js
+    level: 
   - name: Bootstrap
-    level: 4
+    level: 1
   - name: Materialize CSS
-    level: 5
+    level: 
   - name: LESS
-    level: 3
+    level: 
   - name: SASS
-    level: 3
+    level: 
   - name: Stylus
-    level: 4
+    level: 
   - name: Gulp
-    level: 4
+    level: 
   - name: Grunt
-    level: 3
+    level: 
   - name: Bower
-    level: 3
+    level: 
 
 back-end:
   - name: PHP
-    level: 5
+    level: 1
   - name: Node.js
-    level: 3
+    level: 
   - name: Ruby
-    level: 2
+    level: 
   - name: Python
     level: 2
   - name: Java
-    level: 4
+    level: 2
   - name: COBOL
-    level: 2
+    level: 
   - name: SQL
-    level: 4
-  - name: Lua
-    level: 2
+    level: 3
+  - name: C#
+    level: 3
 
 mobile:
   - name: Android
-    level: 2
+    level: 
   - name: Apache Cordova
-    level: 4
+    level: 
   - name: Ionic
-    level: 4
+    level: 
   - name: NativeScript
-    level: 3
+    level: 
 
 db:
   - name: MySQL
-    level: 4
+    level: 2
   - name: PostgreSQL
-    level: 3
+    level: 2
   - name: MongoDB
-    level: 4
+    level: 
   - name: SQL Server
     level: 2
   - name: Oracle
-    level: 3
+    level: 2
   - name: Firebase
-    level: 3
+    level: 
   - name: NoSQL
-    level: 4
+    level: 
 
 devops:
   - name: Docker
-    level: 3
-  - name: Vagrant
-    level: 3
-  - name: Jenkins
     level: 1
+  - name: Vagrant
+    level: 
+  - name: Jenkins
+    level: 
   - name: Git
-    level: 5
+    level: 1
   - name: Apache Maven
-    level: 3
+    level: 
   - name: Continuous Integration
-    level: 3
+    level: 2
   - name: Continuous Delivery
     level: 2
 
@@ -129,35 +132,51 @@ methodologies:
   - name: Scrum
     level: 4
   - name: RUP
-    level: 3
+    level: 3  
+  - name: BABOK
+    level: 4
+  - name: PMBOK
+    level: 4
+  - name: PRINCE2
+    level: 2
 
 others:
   - name: Web Services
-    level: 5
+    level: 2
   - name: REST
-    level: 5
+    level: 
   - name: JEE, JSF, JPA, EJB, CDI
-    level: 3
+    level: 2
   - name: iReport, Jasper Reports
-    level: 2
+    level: 1
   - name: Hibernate
-    level: 3
+    level: 
   - name: Grails
-    level: 2
+    level: 
   - name: Symfony
-    level: 3
+    level: 
   - name: Twig
-    level: 4
+    level: 
   - name: Doctrine ORM
-    level: 3
+    level: 
   - name: Laravel, Blade, Eloquent ORM
-    level: 5
+    level: 
   - name: Ruby on Rails
-    level: 3
+    level: 
   - name: MEAN Stack
-    level: 4
+    level: 
   - name: Spring
+    level: 
+  - name: UML
+    level: 4
+  - name: UX
+    level: 4
+  - name: OOD
     level: 3
+  - name: SDLC
+    level: 4
+  - name: UAT
+    level: 4
 
 # Build settings
 
