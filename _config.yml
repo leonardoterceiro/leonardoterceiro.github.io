@@ -46,6 +46,20 @@ Working toward PMP and Prince2 certifications."
 # You can change these names in _includes/_skill-level-name.html if you wish
 #
 # If you don't want one of the sections below, leave the variable without any values
+methodologies:
+  - name: Agile Methodologies
+    level: 3
+  - name: Scrum
+    level: 4
+  - name: RUP
+    level: 3  
+  - name: BABOK
+    level: 4
+  - name: PMBOK
+    level: 4
+  - name: PRINCE2
+    level: 2
+
 front-end:
   - name: HTML 5
     level: 2
@@ -59,16 +73,19 @@ front-end:
     level: 1
 
 back-end:
-  - name: PHP
-    level: 1
+  - name: C#
+    level: 3
   - name: Python
     level: 2
   - name: Java
     level: 2
   - name: SQL
     level: 3
-  - name: C#
-    level: 3
+  - name: PHP
+    level: 2
+  - name: Pearl
+    level: 1
+    
 db:
   - name: MySQL
     level: 2
@@ -89,20 +106,6 @@ devops:
   - name: Continuous Integration
     level: 2
   - name: Continuous Delivery
-    level: 2
-
-methodologies:
-  - name: Agile Methodologies
-    level: 3
-  - name: Scrum
-    level: 4
-  - name: RUP
-    level: 3  
-  - name: BABOK
-    level: 4
-  - name: PMBOK
-    level: 4
-  - name: PRINCE2
     level: 2
 
 others:
