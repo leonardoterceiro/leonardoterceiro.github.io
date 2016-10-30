@@ -13,26 +13,16 @@ email: leonardo.terceiro@gmx.ca
 github: leonardoterceiro
 linkedin: leonardoterceiro/en
 bio: "I graduated in Information Technology Management. I'm a ITIL Foundation and Professional Scrum Master Certified.
-
 I love to study and learn new skills, exchange work and study experience with people around me and share my knowledge with the ones that want it. 
-
 With over 10 years of leading people and being responsible for project and team management, having coached and mentored several direct reports and managing performance, expectations and results in different companies and enviroments.
-
 Personally, I have the drive and determination to consistently achieve success as a leader in all of the organizations that I have worked with in the past.
-
 I am proud of being able to deliver projects in a timely manner, under budget.
-
 Proven ability to build rapport with clients and stakeholders with confidence and respect.
-
 Strong analytical and problems solving skills.
-
 Well-developed organizational and time management skills, with the ability to balance multiple and competing priorities.
-
 Demonstrated ability to pay persistent attention to detail, while maintaining an overall view of the strategic vision.
-
 Excellent written and verbal communication skills.
-
-Working toward PMP and Prince2 certifications."
+</br>Working toward PMP and Prince2 certifications."
 
 # Skills
 #
@@ -90,13 +80,13 @@ db:
   - name: MySQL
     level: 2
   - name: PostgreSQL
-    level: 2
+    level: 1
   - name: MongoDB
     level: 1
   - name: SQL Server
     level: 2
   - name: Oracle
-    level: 2
+    level: 1
 
 devops:
   - name: Docker
