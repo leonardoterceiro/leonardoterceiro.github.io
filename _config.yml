@@ -7,7 +7,7 @@ language: "" # language to set into html tag, default is en
 # User settings
 
 author: Leonardo Terceiro
-author-title: Project Coordinator
+author-title: IT Project Coordinator
 gravatar: 
 email: leonardo.terceiro@gmx.ca
 github: leonardoterceiro
@@ -42,7 +42,7 @@ methodologies:
   - name: Scrum
     level: 4
   - name: RUP
-    level: 3  
+    level: 4  
   - name: BABOK
     level: 4
   - name: PMBOK
