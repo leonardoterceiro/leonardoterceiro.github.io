@@ -99,16 +99,28 @@ devops:
     level: 2
 
 others:
+  - name: Project Coordination
+    level: 5
   - name: Web Services
     level: 2
+  - name: MS Word
+    level: 5
+  - name: MS Project
+    level: 5
+  - name: MS Access
+    level: 5
+  - name: MS Excel
+    level: 5
+  - name: MS Visio
+    level: 5
+  - name: MS Powerpoint
+    level: 5
   - name: JEE, JSF, JPA, EJB, CDI
     level: 2
   - name: iReport, Jasper Reports
     level: 1
   - name: Business Analysis
     level: 4
-  - name: Project Coordination
-    level: 5
   - name: UML
     level: 4
   - name: UX
