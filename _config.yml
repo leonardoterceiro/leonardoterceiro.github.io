@@ -49,6 +49,8 @@ methodologies:
     level: 4
   - name: PRINCE2
     level: 2
+  - name: ITIL
+    level: 5
 
 front-end:
   - name: HTML 5
