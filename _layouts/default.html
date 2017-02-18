@@ -8,7 +8,11 @@
       {% if site.bio %}
         {% include bio.html %}
       {% endif %}
-
+      
+      {% if site.methodologies %}
+        {% include methodologies.html %}
+      {% endif %}
+      
       {% if site.front-end %}
         {% include front-end.html %}
       {% endif %}
@@ -27,10 +31,6 @@
 
       {% if site.devops %}
         {% include devops.html %}
-      {% endif %}
-
-      {% if site.methodologies %}
-        {% include methodologies.html %}
       {% endif %}
 
       {% if site.others %}
