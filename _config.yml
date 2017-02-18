@@ -102,7 +102,7 @@ devops:
   - name: Continuous Delivery
     level: 2
 
-Others:
+others:
   - name: Quality Control
     level: 5
   - name: Quality Assurance
