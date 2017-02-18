@@ -88,7 +88,7 @@ db:
   - name: MongoDB
     level: 1
   - name: SQL Server
-    level: 2
+    level: 3
   - name: Oracle
     level: 1
 
