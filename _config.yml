@@ -7,14 +7,14 @@ language: "" # language to set into html tag, default is en
 # User settings
 
 author: Leonardo Terceiro
-author-title: IT Project Coordinator
+author-title: Information Technology Manager
 gravatar: 0260dd3a2bf1516033c4ee11c814c229
 email: leonardo.terceiro@gmx.ca
 github: leonardoterceiro
 linkedin: leonardoterceiro/en
 bio: "<ul>
-<li>I am a qualified professional in the Information Technology industry, as well as ITIL Foundation and Professional Scrum Master Certified. </li>
-<li>Degree in Information Systems Management, with over 10 years of leading people and being responsible for project and team management, having coached and mentored several direct reports and managing performance, expectations and results in different companies and enviroments.</li>
+<li>I am a qualified professional in the Pharmaceutical and Information Technology industry, as well as ITIL and Professional Scrum Master Certified. </li>
+<li>Bachelor Degree in Industrial Pharmacy and Information Systems Management, with over 10 years of leading people and being responsible for project and team management, having coached and mentored several direct reports and managing performance, expectations and results in different companies and enviroments.</li>
 <li>I love to study and learn new skills and share knowledge and experiences with people around me. </li>
 <li>Personally, I have the drive and determination to consistently achieve success as a leader in all of the organizations that I have worked with in the past. </li>
 <li>I am proud of being able to deliver projects in a timely manner, under budget. </li>
@@ -40,7 +40,7 @@ bio: "<ul>
 # If you don't want one of the sections below, leave the variable without any values
 methodologies:
   - name: Agile Methodologies
-    level: 3
+    level: 4
   - name: Scrum
     level: 4
   - name: RUP
@@ -102,11 +102,27 @@ devops:
   - name: Continuous Delivery
     level: 2
 
-others:
-  - name: Project Coordination
+Others:
+  - name: Quality Control
+    level: 5
+  - name: Quality Assurance
+    level: 5
+  - name: Pharmacoepidemiology
+    level: 5
+  - name: GMP
+    level: 5
+  - name: Drug Development
+    level: 5
+  - name: Analytical Methods Development
+    level: 5
+  - name: Project Management
     level: 5
   - name: Web Services
     level: 2
+  - name: Medicinal Chemistry
+    level: 5
+  - name: Biostatistics
+    level: 5
   - name: MS Word
     level: 5
   - name: MS Project
