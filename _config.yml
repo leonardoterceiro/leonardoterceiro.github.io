@@ -38,6 +38,7 @@ bio: "<ul>
 # You can change these names in _includes/_skill-level-name.html if you wish
 #
 # If you don't want one of the sections below, leave the variable without any values
+#
 methodologies:
   - name: Agile Methodologies
     level: 4
