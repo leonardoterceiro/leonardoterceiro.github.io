@@ -105,9 +105,10 @@ devops:
     level: 2
 
 others:
-
   - name: Web Services
     level: 2
+  - name: Project Management
+    level: 5
   - name: JEE, JSF, JPA, EJB, CDI
     level: 2
   - name: iReport, Jasper Reports
