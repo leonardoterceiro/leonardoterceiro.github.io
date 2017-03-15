@@ -108,18 +108,6 @@ others:
     level: 5
   - name: Web Services
     level: 2
-  - name: MS Word
-    level: 5
-  - name: MS Project
-    level: 5
-  - name: MS Access
-    level: 5
-  - name: MS Excel
-    level: 5
-  - name: MS Visio
-    level: 5
-  - name: MS Powerpoint
-    level: 5
   - name: JEE, JSF, JPA, EJB, CDI
     level: 2
   - name: iReport, Jasper Reports
@@ -136,6 +124,8 @@ others:
     level: 4
   - name: UAT
     level: 4
+   - name: BPMN
+    level: 3
 
 # Build settings
 
