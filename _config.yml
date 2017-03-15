@@ -5,6 +5,7 @@ url: "" # the base hostname & protocol for your site
 language: "" # language to set into html tag, default is eng
 
 # User settings
+#
 
 author: Leonardo Terceiro
 author-title: Information Technology Manager
