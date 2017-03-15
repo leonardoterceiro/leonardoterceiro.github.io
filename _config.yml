@@ -105,8 +105,7 @@ devops:
     level: 2
 
 others:
-  - name: Project Management
-    level: 5
+
   - name: Web Services
     level: 2
   - name: JEE, JSF, JPA, EJB, CDI
