@@ -125,7 +125,7 @@ others:
     level: 4
   - name: UAT
     level: 4
-   - name: BPMN
+  - name: BPMN
     level: 3
 
 # Build settings
