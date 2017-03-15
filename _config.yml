@@ -13,8 +13,8 @@ email: leonardo.terceiro@gmx.ca
 github: leonardoterceiro
 linkedin: leonardoterceiro/en
 bio: "<ul>
-<li>I am a qualified professional in the Pharmaceutical and Information Technology industry, as well as ITIL and Professional Scrum Master Certified. </li>
-<li>Bachelor Degree in Industrial Pharmacy and Information Systems Management, with over 10 years of leading people and being responsible for project and team management, having coached and mentored several direct reports and managing performance, expectations and results in different companies and enviroments.</li>
+<li>I am a qualified professional in the Health and Information Technology industry, as well as ITIL Foundation and Professional Scrum Master Certified. </li>
+<li>Bachelor Degree in Information Systems Management, with over 10 years of leading people and being responsible for project and team management, having coached and mentored several direct reports and managing performance, expectations and results in different companies and enviroments.</li>
 <li>I love to study and learn new skills and share knowledge and experiences with people around me. </li>
 <li>Personally, I have the drive and determination to consistently achieve success as a leader in all of the organizations that I have worked with in the past. </li>
 <li>I am proud of being able to deliver projects in a timely manner, under budget. </li>
@@ -23,7 +23,7 @@ bio: "<ul>
 <li>Well-developed organizational and time management skills, with the ability to balance multiple and competing priorities.</li>
 <li>Demonstrated ability to pay persistent attention to detail, while maintaining an overall view of the strategic vision. </li>
 <li>Excellent written and verbal communication skills. </li>
-<li>Working toward PMP and Prince2 certifications.</li>
+<li>Working toward PSPO and CAPM certifications.</li>
 </ul>"
 
 # Skills
@@ -41,7 +41,7 @@ bio: "<ul>
 methodologies:
   - name: Agile Methodologies
     level: 4
-  - name: Scrum
+  - name: Scrum Framework
     level: 4
   - name: RUP
     level: 4  
@@ -103,26 +103,10 @@ devops:
     level: 2
 
 others:
-  - name: Quality Control
-    level: 5
-  - name: Quality Assurance
-    level: 5
-  - name: Pharmacoepidemiology
-    level: 5
-  - name: GMP
-    level: 5
-  - name: Drug Development
-    level: 5
-  - name: Analytical Methods Development
-    level: 5
   - name: Project Management
     level: 5
   - name: Web Services
     level: 2
-  - name: Medicinal Chemistry
-    level: 5
-  - name: Biostatistics
-    level: 5
   - name: MS Word
     level: 5
   - name: MS Project
